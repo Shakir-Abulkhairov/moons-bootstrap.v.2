@@ -1,0 +1,23 @@
+.wrapper{
+    min-height: 657px;
+    background-image: url(../public/img/bg.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.block{
+    display: flex;
+    color: #fff;
+    font-family: 'Josefin Sans';
+    font-weight: 700;
+}
+.img{
+    width: 488px;
+    height: 493px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.rounded{
+    border-radius:100%;
+}

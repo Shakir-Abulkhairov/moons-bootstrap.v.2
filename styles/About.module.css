@@ -1,0 +1,17 @@
+.wrapper {
+    min-height: 657px;
+    padding: 21px 0 93px 0;
+    background-image: url(../public/img/Group\ 2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}

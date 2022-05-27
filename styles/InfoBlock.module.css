@@ -1,0 +1,24 @@
+.wrapper{
+    background: linear-gradient(180deg, #000000 0%, rgba(90, 91, 82, 0) 100%);
+    padding: 128px 0 135px 0;
+}
+.title{
+    text-transform: uppercase;
+    text-align: center;
+}
+.subtitle{
+    text-align: center;
+}
+.blockText{
+    margin-top: 43px;
+    height:500px;
+}
+.white{
+    color: #fff;
+}
+.card{
+    height: 430px;
+    margin-top: 13px;
+    border-radius: 5px;
+    border: 2px solid rgba(188,208,229,0.5);
+}

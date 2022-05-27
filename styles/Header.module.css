@@ -1,0 +1,14 @@
+.nav{
+    font-family: 'Josefin Sans';
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+    display: flex;
+}
+.nav li{
+    margin-right: 23px;
+    list-style-type: none;
+}
+.nav li a{
+    color: #fff;
+}
