@@ -3,7 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Link from 'next/link';
 import ItemList from '../../components/items/ItemList';
-import style from'../../styles/ItemList.module.css';
+import style from'../../styles/ItemList.module.scss';
 import Button from '../../components/Button';
 const Moons = ({planets}) =>{
 console.log(planets)

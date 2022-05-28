@@ -1,7 +1,7 @@
 
-import InfoBlock from "../components/InfoBlock";
+import InfoBlock from "../components/infoBlock/InfoBlock";
 import Promo from "../components/Promo";
-import Moons from "./moons";
+
 
 
 export default function Home() {

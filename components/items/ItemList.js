@@ -1,4 +1,4 @@
-import style from'../../styles/ItemList.module.css';
+import style from'../../styles/ItemList.module.scss';
 
 function ItemList({planet}) {
   return (
